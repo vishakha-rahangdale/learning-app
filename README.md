@@ -1,3 +1,4 @@
 # learning-app
 This is my first Git Repository.
-this is learning app
+<br>
+This is learning app.
